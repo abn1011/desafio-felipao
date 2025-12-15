@@ -1,0 +1,15 @@
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\bin\Debug\net8.0\DESAFIO-DA-DIO.exe
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\bin\Debug\net8.0\DESAFIO-DA-DIO.deps.json
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\bin\Debug\net8.0\DESAFIO-DA-DIO.runtimeconfig.json
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\bin\Debug\net8.0\DESAFIO-DA-DIO.dll
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\bin\Debug\net8.0\DESAFIO-DA-DIO.pdb
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.AssemblyInfoInputs.cache
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.AssemblyInfo.cs
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.csproj.CoreCompileInputs.cache
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.sourcelink.json
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.dll
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\refint\DESAFIO-DA-DIO.dll
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.pdb
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\DESAFIO-DA-DIO.genruntimeconfig.cache
+C:\Users\Carrefour Valinhos\Documents\DESAFIO-DA-DIO\obj\Debug\net8.0\ref\DESAFIO-DA-DIO.dll
